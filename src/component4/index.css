@@ -1,0 +1,18 @@
+.container{
+
+	width: 200px;
+	border: 1px solid green;
+	overflow: hidden;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	text-align: left;
+}
+#text{
+
+
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	display: block;
+	float: left;
+}
+

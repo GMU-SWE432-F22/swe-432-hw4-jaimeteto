@@ -1,0 +1,32 @@
+#container{
+align-items: center;
+width: 200px;
+border: 1px solid green;
+overflow: hidden;
+
+}
+
+.logo{
+
+	
+
+}
+
+#logo: hover{
+
+	font-size: 40px;
+	transform: rotate(0.6turn);
+
+}
+
+#logo2{
+	transform: rotate(0.3turn);
+
+}
+
+.container{
+	
+	
+	background-color: #2196F3;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
