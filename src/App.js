@@ -37,12 +37,7 @@ render() {
           <div><Logo/></div>
           <div class = "wrapper">
 
-          {/*<div class = "workout">  <EnterWorkout/> <CountSets/><RecordReps/></div>
-          <div class = "workout"> <EnterWorkout/><CountSets/> </div>
-          <div class = "workout">  <EnterWorkout/><CountSets/> </div>
-          <div class = "workout">  <EnterWorkout/><CountSets/> </div>
-          <div class = "workout">  <EnterWorkout/><CountSets/> </div>
-            */}
+         
 
 
          
