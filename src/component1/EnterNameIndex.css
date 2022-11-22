@@ -14,14 +14,14 @@ code {
 }
 
 
-h1{
+h1 {
 
 
   text-align: left;
 
 }
 
-input:focus{
+input: focus{
 
 
   background-color: aqua;

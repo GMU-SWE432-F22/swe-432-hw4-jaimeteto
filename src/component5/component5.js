@@ -63,7 +63,7 @@ else{
 	<div class = "list">
 		      <ul>
         {list.map((item) => (
-          <li key={item.id}>set: {item.set}Number of Reps:{item.reps}</li>
+          <li key={item.id}>set: {item.set}    Number of Reps:{item.reps}</li>
         ))}
       </ul>
 		</div>	
