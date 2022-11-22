@@ -1,18 +1,9 @@
 .container{
-
-	width: 200px;
-	border: 1px solid green;
+	background-color: lightsalmon;
+	width: 500px;
 	overflow: hidden;
-	border: 1px solid rgba(0, 0, 0, 0.8);
+	border: 1px solid rgba(0, 0, 0, 1);
 	text-align: left;
 }
-#text{
 
-
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-	display: block;
-	float: left;
-}
 

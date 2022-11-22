@@ -13,7 +13,7 @@ function Logo() {
 
 	 
 	 return(
-	 		<div class ="container">
+	 		<div class ="LogoContainer">
 	 		<button  id = "logo" onClick= {refreshPage}>Workout Tracker</button>
 	 		
 	 		</div>
