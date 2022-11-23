@@ -8,7 +8,7 @@
 
 * **Student Name:*jaime pena* 
 * **Student G-Number:*01300925* 
-* **Heroku Deployment URL:**
+* **Heroku Deployment URL:https://jaime-pena-swe432-hw4.herokuapp.com/**
 
 ### Documentation of your Web App and React Components
 
