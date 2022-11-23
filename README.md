@@ -6,9 +6,9 @@
 
 *Please fill in this information before submission*
 
-* **Student Name:** 
-* **Student G-Number:** 
-* **Heroku Deployment URL:**
+* **Student Name:*jaime pena* 
+* **Student G-Number:*01300925* 
+* **Heroku Deployment URL:https://jaime-pena-swe432-hw4.herokuapp.com/**
 
 ### Documentation of your Web App and React Components
 
@@ -16,9 +16,29 @@
 
 **General App Description:** This web application provides information about cities loaded from a centralized database at www.citiesinfo.org. This app can help people find reference information about various city attributes such as population, capitals, and other demographic information.
 
-* **React Component 1:** Retrieve a city from our Washington DC Database
-  * *Functionality:* Displays a list of cities and allows the user to sort the cities alphabetically
-  * *Interactivity:* The user can click on an arrow at the top of the list to change the sorting.
+
+
+* **React Component 1:** component that asks the user for a the name of the workout.
+* *Functionality:*  shows user the name of the website
+* *Interactivity:* The user can enter input and when focus is given to the box the backgroud of the box turns blue
+
+
+  * **React Component 2:** Consists of a button that counts and keeps track of the number of sets  
+  * *Functionality:* Displays a button that when clicked clears the section for the reps and weight and then an event is sent to a parent component to store in a list what was inputed durign that particular set
+  * *Interactivity:* The user can click on an the button and when they hover over it, the button expands
+
+  * **React Component 3:** displays the logo for the website
+  * *Functionality:* it resets the table
+  * *Interactivity:* if user clicks on this logo the page is reseted.
+
+
+  * **React Component 4:** records the number of reps and weight that was used during that set
+  * *Functionality:* displays two inpput boxes that ask the user for the number of reps that were done and the weight that was used during that set
+  * *Interactivity:* boxes turn blue with focus and input disappears after reciving the enter key
+
+  * **React Component 5:** List all info for each set
+  * *Functionality:* Displays a list of sets for a particular workout
+  * *Interactivity:* this is where all components are put together with a button thatis clicked when the workout has been terminated. This event clears the section for that work out and returns a list with the number of reps, weight, and set number for each workout that was used
 
 ## Project Overview
 

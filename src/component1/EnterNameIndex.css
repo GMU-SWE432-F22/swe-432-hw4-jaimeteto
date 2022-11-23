@@ -1,0 +1,19 @@
+
+
+h1 {
+
+
+  text-align: left;
+
+}
+
+input:focus {
+
+
+  background-color: aqua;
+}
+
+.workoutName{
+
+  height: 50px;
+}
