@@ -40,9 +40,9 @@ if(!input){
  }
  else{
  		return(
- 	<div>
+ 	<div class ="workoutName">
 
-    <h2>{firstName}</h2>
+    <h3>{firstName}</h3>
       
 
     </div>
